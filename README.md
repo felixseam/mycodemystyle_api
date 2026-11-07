@@ -1,4 +1,4 @@
-# Cinema Backend
+# MycodeMystyle API
 
 REST API for the Merl Rerng Cinema platform, built with Go and Fiber. One API serves two systems, the public **member** app (`front`) and the **admin** panel, each with its own users, tokens and middleware. Data is in PostgreSQL, cache in Tarantool, and every message is translated (English and Khmer).
 
