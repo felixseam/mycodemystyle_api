@@ -1,0 +1,266 @@
+[
+    {
+        "id": "welcome",
+        "translation": {
+            "other": "Welcome to Merl Rerng Cinema"
+        }
+    },
+    {
+        "id": "success",
+        "translation": {
+            "other": "Operation completed successfully"
+        }
+    },
+    {
+        "id": "created",
+        "translation": {
+            "other": "Created successfully"
+        }
+    },
+    {
+        "id": "not_found",
+        "translation": {
+            "other": "Resource not found"
+        }
+    },
+    {
+        "id": "unauthorized",
+        "translation": {
+            "other": "You are not authorized"
+        }
+    },
+    {
+        "id": "internal_error",
+        "translation": {
+            "other": "Internal server error"
+        }
+    },
+    {
+        "id": "welcome_user",
+        "translation": {
+            "other": "Welcome, {{.Name}}!"
+        }
+    },
+    {
+        "id": "validation_failed",
+        "translation": {
+            "other": "Validation failed"
+        }
+    },
+    {
+        "id": "validation_invalid",
+        "translation": {
+            "other": "Invalid value"
+        }
+    },
+    {
+        "id": "validation_required",
+        "translation": {
+            "other": "This field is required"
+        }
+    },
+    {
+        "id": "validation_email",
+        "translation": {
+            "other": "Must be a valid email address"
+        }
+    },
+    {
+        "id": "validation_min",
+        "translation": {
+            "other": "Must be at least {{.Param}}"
+        }
+    },
+    {
+        "id": "validation_max",
+        "translation": {
+            "other": "Must be at most {{.Param}}"
+        }
+    },
+    {
+        "id": "validation_min_length",
+        "translation": {
+            "other": "Must be at least {{.Param}} characters"
+        }
+    },
+    {
+        "id": "validation_max_length",
+        "translation": {
+            "other": "Must be at most {{.Param}} characters"
+        }
+    },
+    {
+        "id": "validation_exact_length",
+        "translation": {
+            "other": "Must be exactly {{.Param}} characters"
+        }
+    },
+    {
+        "id": "validation_oneof",
+        "translation": {
+            "other": "Must be one of: {{.Param}}"
+        }
+    },
+    {
+        "id": "validation_username",
+        "translation": {
+            "other": "Only letters, numbers and underscore are allowed (3-50 characters)"
+        }
+    },
+    {
+        "id": "validation_phone",
+        "translation": {
+            "other": "Must be a valid phone number"
+        }
+    },
+    {
+        "id": "login_failed",
+        "translation": {
+            "other": "Login failed"
+        }
+    },
+    {
+        "id": "login_success",
+        "translation": {
+            "other": "Login successful"
+        }
+    },
+    {
+        "id": "request_failed",
+        "translation": {
+            "other": "Request failed"
+        }
+    },
+    {
+        "id": "invalid_json",
+        "translation": {
+            "other": "Malformed request body"
+        }
+    },
+    {
+        "id": "bad_request",
+        "translation": {
+            "other": "Bad request"
+        }
+    },
+    {
+        "id": "invalid_json",
+        "translation": {
+            "other": "Malformed request body"
+        }
+    },
+    {
+        "id": "forbidden",
+        "translation": {
+            "other": "You do not have permission to do this"
+        }
+    },
+    {
+        "id": "conflict",
+        "translation": {
+            "other": "This record already exists"
+        }
+    },
+    {
+        "id": "too_many_requests",
+        "translation": {
+            "other": "Too many requests, please try again later"
+        }
+    },
+    {
+        "id": "route_not_found",
+        "translation": {
+            "other": "Endpoint not found"
+        }
+    },
+    {
+        "id": "method_not_allowed",
+        "translation": {
+            "other": "Method not allowed"
+        }
+    },
+    {
+        "id": "payload_too_large",
+        "translation": {
+            "other": "Request is too large"
+        }
+    },
+    {
+        "id": "missing_or_malformed_jwt",
+        "translation": {
+            "other": "Missing or malformed token"
+        }
+    },
+    {
+        "id": "invalid_jwt_token",
+        "translation": {
+            "other": "Invalid or expired token"
+        }
+    },
+    {
+        "id": "session_expired",
+        "translation": {
+            "other": "Session expired, please log in again"
+        }
+    },
+    {
+        "id": "get_userinfo_failed",
+        "translation": {
+            "other": "Failed to get user information"
+        }
+    },
+    {
+        "id": "missing_or_invalid_key",
+        "translation": {
+            "other": "Missing or invalid claim: {{.Key}}"
+        }
+    },
+    {
+        "id": "invalid_credentials",
+        "translation": {
+            "other": "Invalid username or password"
+        }
+    },
+    {
+        "id": "account_disabled",
+        "translation": {
+            "other": "Your account is disabled"
+        }
+    },
+    {
+        "id": "username_taken",
+        "translation": {
+            "other": "This username is already taken"
+        }
+    },
+    {
+        "id": "wrong_old_password",
+        "translation": {
+            "other": "The current password is incorrect"
+        }
+    },
+    {
+        "id": "same_password",
+        "translation": {
+            "other": "The new password must be different from the current one"
+        }
+    },
+    {
+        "id": "username_not_found",
+        "translation": {
+            "other": "Username not found"
+        }
+    },
+    {
+        "id": "wrong_password",
+        "translation": {
+            "other": "Incorrect password"
+        }
+    },
+    {
+        "id": "upgrade_required",
+        "translation": {
+            "other": "WebSocket connection required"
+        }
+    }
+]

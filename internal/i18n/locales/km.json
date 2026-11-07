@@ -1,0 +1,266 @@
+[
+    {
+        "id": "welcome",
+        "translation": {
+            "other": "សូមស្វាគមន៍មកកាន់រោងភាពយន្ត មើលរឿង"
+        }
+    },
+    {
+        "id": "success",
+        "translation": {
+            "other": "ប្រតិបត្តិការបានជោគជ័យ"
+        }
+    },
+    {
+        "id": "created",
+        "translation": {
+            "other": "បង្កើតបានជោគជ័យ"
+        }
+    },
+    {
+        "id": "not_found",
+        "translation": {
+            "other": "រកមិនឃើញធនធានទេ"
+        }
+    },
+    {
+        "id": "unauthorized",
+        "translation": {
+            "other": "អ្នកមិនមានសិទ្ធិអនុញ្ញាតទេ"
+        }
+    },
+    {
+        "id": "internal_error",
+        "translation": {
+            "other": "មានបញ្ហាផ្ទៃក្នុងរបស់ម៉ាស៊ីនមេ"
+        }
+    },
+    {
+        "id": "welcome_user",
+        "translation": {
+            "other": "សូមស្វាគមន៍ {{.Name}}!"
+        }
+    },
+    {
+        "id": "validation_failed",
+        "translation": {
+            "other": "ទិន្នន័យមិនត្រឹមត្រូវ"
+        }
+    },
+    {
+        "id": "validation_invalid",
+        "translation": {
+            "other": "តម្លៃមិនត្រឹមត្រូវ"
+        }
+    },
+    {
+        "id": "validation_required",
+        "translation": {
+            "other": "ចាំបាច់ត្រូវបំពេញ"
+        }
+    },
+    {
+        "id": "validation_email",
+        "translation": {
+            "other": "ត្រូវតែជាអ៊ីមែលត្រឹមត្រូវ"
+        }
+    },
+    {
+        "id": "validation_min",
+        "translation": {
+            "other": "ត្រូវតែមិនតិចជាង {{.Param}}"
+        }
+    },
+    {
+        "id": "validation_max",
+        "translation": {
+            "other": "ត្រូវតែមិនលើសពី {{.Param}}"
+        }
+    },
+    {
+        "id": "validation_min_length",
+        "translation": {
+            "other": "ត្រូវមានយ៉ាងតិច {{.Param}} តួអក្សរ"
+        }
+    },
+    {
+        "id": "validation_max_length",
+        "translation": {
+            "other": "ត្រូវមានយ៉ាងច្រើន {{.Param}} តួអក្សរ"
+        }
+    },
+    {
+        "id": "validation_exact_length",
+        "translation": {
+            "other": "ត្រូវមាន {{.Param}} តួអក្សរ"
+        }
+    },
+    {
+        "id": "validation_oneof",
+        "translation": {
+            "other": "ត្រូវតែជាតម្លៃមួយក្នុងចំណោម៖ {{.Param}}"
+        }
+    },
+    {
+        "id": "validation_username",
+        "translation": {
+            "other": "អនុញ្ញាតតែអក្សរ លេខ និងសញ្ញា _ ប៉ុណ្ណោះ (៣-៥០ តួអក្សរ)"
+        }
+    },
+    {
+        "id": "validation_phone",
+        "translation": {
+            "other": "ត្រូវតែជាលេខទូរស័ព្ទត្រឹមត្រូវ"
+        }
+    },
+    {
+        "id": "login_failed",
+        "translation": {
+            "other": "ចូលប្រើបរាជ័យ"
+        }
+    },
+    {
+        "id": "request_failed",
+        "translation": {
+            "other": "សំណើបរាជ័យ"
+        }
+    },
+    {
+        "id": "login_success",
+        "translation": {
+            "other": "ចូលប្រើបានជោគជ័យ"
+        }
+    },
+    {
+        "id": "invalid_json",
+        "translation": {
+            "other": "ទម្រង់សំណើមិនត្រឹមត្រូវ"
+        }
+    },
+    {
+        "id": "bad_request",
+        "translation": {
+            "other": "សំណើមិនត្រឹមត្រូវ"
+        }
+    },
+    {
+        "id": "invalid_json",
+        "translation": {
+            "other": "ទម្រង់សំណើមិនត្រឹមត្រូវ"
+        }
+    },
+    {
+        "id": "forbidden",
+        "translation": {
+            "other": "អ្នកមិនមានសិទ្ធិធ្វើសកម្មភាពនេះទេ"
+        }
+    },
+    {
+        "id": "conflict",
+        "translation": {
+            "other": "ទិន្នន័យនេះមានរួចហើយ"
+        }
+    },
+    {
+        "id": "too_many_requests",
+        "translation": {
+            "other": "សំណើច្រើនពេក សូមព្យាយាមម្ដងទៀតនៅពេលក្រោយ"
+        }
+    },
+    {
+        "id": "route_not_found",
+        "translation": {
+            "other": "រកមិនឃើញ endpoint ទេ"
+        }
+    },
+    {
+        "id": "method_not_allowed",
+        "translation": {
+            "other": "វិធីសាស្ត្រមិនត្រូវបានអនុញ្ញាត"
+        }
+    },
+    {
+        "id": "payload_too_large",
+        "translation": {
+            "other": "សំណើធំពេក"
+        }
+    },
+    {
+        "id": "missing_or_malformed_jwt",
+        "translation": {
+            "other": "ថូខឹនបាត់ ឬមានទម្រង់មិនត្រឹមត្រូវ"
+        }
+    },
+    {
+        "id": "invalid_jwt_token",
+        "translation": {
+            "other": "ថូខឹនមិនត្រឹមត្រូវ ឬផុតកំណត់"
+        }
+    },
+    {
+        "id": "session_expired",
+        "translation": {
+            "other": "សម័យចូលប្រើបានផុតកំណត់ សូមចូលប្រើម្ដងទៀត"
+        }
+    },
+    {
+        "id": "get_userinfo_failed",
+        "translation": {
+            "other": "មិនអាចទាញយកព័ត៌មានអ្នកប្រើប្រាស់បានទេ"
+        }
+    },
+    {
+        "id": "missing_or_invalid_key",
+        "translation": {
+            "other": "ទិន្នន័យ {{.Key}} បាត់ ឬមិនត្រឹមត្រូវ"
+        }
+    },
+    {
+        "id": "invalid_credentials",
+        "translation": {
+            "other": "ឈ្មោះអ្នកប្រើ ឬពាក្យសម្ងាត់មិនត្រឹមត្រូវ"
+        }
+    },
+    {
+        "id": "account_disabled",
+        "translation": {
+            "other": "គណនីរបស់អ្នកត្រូវបានបិទ"
+        }
+    },
+    {
+        "id": "username_taken",
+        "translation": {
+            "other": "ឈ្មោះអ្នកប្រើនេះមានគេប្រើរួចហើយ"
+        }
+    },
+    {
+        "id": "wrong_old_password",
+        "translation": {
+            "other": "ពាក្យសម្ងាត់បច្ចុប្បន្នមិនត្រឹមត្រូវ"
+        }
+    },
+    {
+        "id": "same_password",
+        "translation": {
+            "other": "ពាក្យសម្ងាត់ថ្មីត្រូវតែខុសពីពាក្យសម្ងាត់បច្ចុប្បន្ន"
+        }
+    },
+    {
+        "id": "username_not_found",
+        "translation": {
+            "other": "រកមិនឃើញឈ្មោះអ្នកប្រើ"
+        }
+    },
+    {
+        "id": "wrong_password",
+        "translation": {
+            "other": "ពាក្យសម្ងាត់មិនត្រឹមត្រូវ"
+        }
+    },
+    {
+        "id": "upgrade_required",
+        "translation": {
+            "other": "ត្រូវការការតភ្ជាប់ WebSocket"
+        }
+    }
+]

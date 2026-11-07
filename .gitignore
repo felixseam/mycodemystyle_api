@@ -1,0 +1,6 @@
+.env
+tmp/
+.data/
+*.snap
+*.xlog
+coverage.out
